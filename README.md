@@ -30,14 +30,14 @@ The study addresses the core optimization need for delivery services, which seek
 
 ## 🧪 Key Findings
 
-[cite_start]The research confirmed that while both are greedy algorithms[cite: 66], they serve different purposes:
+The research confirmed that while both are greedy algorithms, they serve different purposes:
 
 | Algorithm | Primary Result | Best for |
 | :--- | :--- | :--- |
 | **Dijkstra's** | Shortest distance between two nodes. | Individual route planning (e.g., Google Maps). |
 | **Kruskal's** | Minimum Spanning Tree (MST) total cost. | Minimizing total distance to connect all points in a network. |
 
-The investigation concluded that **Dijkstra's Algorithm is the superior method** for finding the shortest path between any two locations (representing the main objective of a delivery man's route). 
+The investigation concluded that in this case, **Dijkstra's Algorithm is the superior method** for finding the shortest path between any two locations (representing the main objective of a delivery man's route). 
 Kruskal's MST often cuts necessary connections to reduce total weight, resulting in significantly longer individual routes if used for point-to-point pathfinding.
 
 ## 🛠️ Implementation Details
