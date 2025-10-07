@@ -56,10 +56,4 @@ The core processing of the 46-node graph was done using a computational approach
 * `algorithms/`: Directory containing Python scripts for Dijkstra and Kruskal implementation.
 * `research_paper/`: The final research document (`Dijkstra VS Kruskal for Jakarta Route Optimization.pdf`).
 
-## ✍️ Author & Contact
-
-**Author Name** | **[Contact Method]**
----|---
-James Hanzell | [https://github.com/Eternal128]
-
 ---
