@@ -57,3 +57,9 @@ The core processing of the 46-node graph was done using a computational approach
 * `research_paper/`: The final research document (`Dijkstra VS Kruskal for Jakarta Route Optimization.pdf`).
 
 ---
+
+## How to read
+Open the Dijkstra VS Kruskal for Jakarta Route Optimization PDF and have fun!
+
+
+
